@@ -1,0 +1,10 @@
+site_name: Practice Area Page Template for Law Firms
+site_description: A section-by-section template for law firm practice area pages that answer clients and rank, by Legal Web Agency.
+site_author: Legal Web Agency
+site_url: https://practice-area-page-template.readthedocs.io/
+theme:
+  name: readthedocs
+nav:
+  - Practice area page template: index.md
+markdown_extensions:
+  - tables
